@@ -8,6 +8,7 @@
 - Přidána možnost načíst dříve uložený případ
 - Data se ukládají lokálně na počítač znalce, bez odesílání na server
 - Aktualizován informační text o správě dat
+- Nastavena výchozí rámcová částka pro rok 2026 na 19 686 000 Kč
 
 ---
 
