@@ -1,4 +1,3 @@
-[CHANGELOG_verejny.md](https://github.com/user-attachments/files/32466186/CHANGELOG_verejny.md)
 # Kalkulátor ZSU – Historie verzí
 
 Výpočetní pravidla podle Metodiky Nejvyššího soudu k § 2958 o. z. zůstávají ve všech verzích stejná. Mění se ovládání, výstupy a hodnoty, které stanoví právní předpis.
