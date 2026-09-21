@@ -1,4 +1,4 @@
-CHANGELOG_verejny
+CHANGELOG_verejny 1
 Kalkulátor ZSU – Historie verzí
 Výpočetní pravidla podle Metodiky Nejvyššího soudu k § 2958 o. z. zůstávají ve všech verzích stejná. Mění se ovládání, výstupy a hodnoty, které stanoví právní předpis.
 
@@ -8,6 +8,7 @@ Kalkulátor se přizpůsobuje místu, které na stránce skutečně dostal.
 Rozložení tabulky i chování bočního panelu se nově řídí šířkou, kterou má kalkulátor na stránce k dispozici, ne šířkou okna prohlížeče. Na webech, kde je kalkulátor vložený do užšího sloupce nebo do rámu, se dosud část obsahu mačkala nebo ořízla
 Boční panel s průběžným stavem se přicvakne vedle kalkulátoru všude, kde je na něj vedle něj místo. Kde by se musel vysunout přes obsah, ukáže se jen na dostatečně široké stránce. Dřív se držel okraje okna, tedy někdy daleko od tabulky
 Na úzké stránce se panel neukáže vůbec a tabulka přepne do úsporného rozložení, místo aby přetékala
+Panel je po načtení otevřený. Kdo ho nepotřebuje, sroluje si ho úchytem u pravého okraje
 Opraveno načítání dříve uloženého případu: formulář se před vložením dat vyprázdní, takže se nemohou smíchat hodnoty dvou případů. Podnět Petra Kalouse
 Doplněna deklarace kódování, bez které se u souboru otevřeného přímo z disku mohla rozsypat diakritika
 v1.2 · 17.09.2026
